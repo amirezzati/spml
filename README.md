@@ -2,7 +2,7 @@
 
 Sharif University of Technology - Fall 2024  
 Security and Privacy in Machine Learning (SPML) Course Contents  
-Instructor: Amir Mahdi Sadeghzadeh
+Instructor: Dr. Amir Mahdi Sadeghzadeh
 
 The 'Security and Privacy in Machine Learning' course was offered at the Computer Engineering Department of Sharif University of Technology, instructed by Amir Mahdi Sadeghzadeh in the Fall 2024 semester.
 
@@ -16,7 +16,7 @@ The main objectives of the course are to introduce students to the principles of
 ## Course Materials
 
 - **Presentation Slides:** Accessible within the [slides](slides/) directory
-- **My Presentations in Class:** Available in the [papers](presentations/) directory
+- **My Presentations in Class:** Available in the [presentations](presentations/) directory
 - **Homework Assignments:** Available in the [homeworks](homeworks/) directory
 
 
