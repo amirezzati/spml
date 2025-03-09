@@ -10,6 +10,9 @@ The 'Security and Privacy in Machine Learning' course was offered at the Compute
 
 The main objectives of the course are to introduce students to the principles of security and privacy in machine learning. Students become familiar with the vulnerabilities of machine learning in the training and inference phases and the methods to improve the robustness and privacy of machine learning models.
 
+![applsci-09-00909-g001](https://github.com/user-attachments/assets/ff3ab0d0-49ff-47ed-9709-c5feeb1ddd9b)
+
+
 ## Course Materials
 
 - **Presentation Slides:** Accessible within the [slides](slides/) directory
